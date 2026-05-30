@@ -1,6 +1,6 @@
 
 precision-irrigation-dashboard/
-'''bash
+'''
 ├── .github/
 │   ├── workflows/              # GitHub Actions CI/CD pipeline YAML files
 │   │   ├── ci.yml              # runs on every push / PR: lint + test
